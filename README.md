@@ -1,3 +1,5 @@
+THis repriostory is forked from Kiranz's gitHub
+
 # leetcode-share
 
 [![Language python](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org)
